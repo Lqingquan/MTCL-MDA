@@ -1,0 +1,4 @@
+recbole == 1.0.0
+faiss == 1.7.2
+torch == 1.13.1
+matplotlib == 3.6.3
